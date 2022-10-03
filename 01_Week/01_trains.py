@@ -17,3 +17,5 @@ doc = parseString(page.content)
 # Store xml in a file.
 with open("trainxml.xml","w") as xmlfp:
     doc.writexml(xmlfp)
+
+

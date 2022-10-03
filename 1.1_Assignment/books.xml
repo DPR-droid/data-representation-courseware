@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+  <technical_books>
+      <book>
+           <ISBN>979-8539166182</ISBN>
+           <title >Technical Analysis for Beginners</title>
+           <author>A.Z Penn</author>
+      </book>
+      <book>
+           <ISBN>1086783093</ISBN>
+           <title >Stock Trading Strategies</title>
+           <author>William L. Anderson </author>
+      </book>
+  </technical_books>
+  <cookery_books>
+      <book>
+           <ISBN>0241431107</ISBN>
+           <title >One: Simple One-Pan Wonders</title>
+           <author>Jamie Oliver</author>
+      </book>
+      <book>
+           <ISBN>0241453240</ISBN>
+           <title >Nadiyas Everyday Baking</title>
+           <author>Nadiya Hussain</author>
+      </book>
+  </cookery_books>
+</books>
