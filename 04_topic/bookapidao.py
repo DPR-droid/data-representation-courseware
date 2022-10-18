@@ -9,13 +9,13 @@ def getallbooks():
     return response.json()
 
 
-def getBookId(id):
+def getbookid(id):
     geturl  = url + "/" + str(id)
     response = requests.get(geturl)
     return response.json()
 
 
-def createBook(book):
+def createbook(book):
     # book = {
     #         'Author': 'Jonas Jonasson', 
     #         'Price': 123, 
@@ -28,24 +28,32 @@ def createBook(book):
     return response.json
 
 
-def updateBook(id, bookdiff):
+def updatebook(id, bookdiff):
     updateurl = url + "/" + str(id)
     response = requests.put(updateurl, json=bookdiff)
     return response.json()
-    pass
 
-def deleteBook(id):
+
+def deletebook(id):
     deleteurl = url + "/" + str(id)
     response = requests.delete(deleteurl)
     return response.json()
-    
+
+
+# Write a program in another file that works out the average book price from all the books on the server
+def averageprice():
+    response = requests.get(url)
+    loaded = response.json()
+    GetPrice = ([d["Price"] for d in loaded])
+    avgprice = round(sum(GetPrice) / len(GetPrice))
+    return avgprice       
 
 
 if __name__ == "__main__":
     book= {
         'Author':"Al Johnson",
         'Title':"Moonshine",
-        "Price": 25.25
+        "Price": 25
     }
     bookdiff= {
         'Author':"Alex",
@@ -53,7 +61,9 @@ if __name__ == "__main__":
     }
     id = 99
     # print(getallbooks())
-    # print(getBookId(19))
-    # print(createBook(book))
-    # print(updateBook(id, bookdiff))
-    # print(deleteBook(94))
+    # print(getbookid(19))
+    # print(createbook(book))
+    # print(updatebook(id, bookdiff))
+    # print(deletebook(94))
+    #averageprice()
+    print("Avergage Price for a book is €" + str(averageprice()))
