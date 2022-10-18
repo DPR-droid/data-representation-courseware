@@ -1,3 +1,10 @@
+# Data Representation
+# Lab 04.1: requests
+# • In this lab we will write a module to interact with the API I created at
+# http://andrewbeatty1.pythonanywhere.com/books
+# • More information on requests at
+# Requests: HTTP for Humans™ — Requests 2.28.1 documentation
+
 from urllib import response
 import requests
 
@@ -7,7 +14,6 @@ url = "http://andrewbeatty1.pythonanywhere.com/books"
 def getallbooks():
     response = requests.get(url)
     return response.json()
-
 
 def getbookid(id):
     geturl  = url + "/" + str(id)
