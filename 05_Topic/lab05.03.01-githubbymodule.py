@@ -4,6 +4,7 @@ from github import Github
 import requests
 from config import config as cfg
 
+
 apikey = cfg["githubkey"]
 
 g = Github(apikey)

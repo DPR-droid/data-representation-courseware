@@ -4,14 +4,13 @@
 # • https://developer.github.com/v3/guides/
 # NOTE: You will have to get your own key from github
 
-
-
 import requests
 import urllib.parse
 from config import config as cfg
 
 targetUrl = "https://en.wikipedia.org"
 #targetUrl = "https://www.atu.ie/"
+
 
 apiKey = cfg["htmltopdfkey"]
 #api = "yourkey"
