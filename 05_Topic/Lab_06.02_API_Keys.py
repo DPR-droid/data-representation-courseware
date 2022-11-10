@@ -10,6 +10,7 @@ from config import config as cfg
 
 targetUrl = "https://en.wikipedia.org"
 #targetUrl = "https://www.atu.ie/"
+#targetUrl = "https://www.google.com"
 
 
 apiKey = cfg["htmltopdfkey"]
