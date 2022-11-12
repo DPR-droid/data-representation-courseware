@@ -1,0 +1,26 @@
+
+Sites that use RESTful API's
+https://any-api.com
+
+http://andrewbeatty1.pythonanywhere.com/books
+
+
+######################################
+Curl
+
+Get all
+
+curl  http://andrewbeatty1.pythonanywhere.com/books
+
+Find by id
+curl http://andrewbeatty1.pythonanywhere.com/books/7
+
+Create
+curl  -H "Content-Type:application/json" -X POST -d "{\"Title\":\"xxx\",\"Author\":\"xxx\",\"Price\":2000}" http://andrewbeatty1.pythonanywhere.com/books
+
+
+Update
+curl  -H "Content-Type:application/json" -X PUT -d "{\"Price\":2000}" http://andrewbeatty1.pythonanywhere.com/books/7
+
+delete
+curl   -X DELETE http://andrewbeatty1.pythonanywhere.com/books/7
