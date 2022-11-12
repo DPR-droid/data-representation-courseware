@@ -25,15 +25,21 @@ retrieveTags=['TrainStatus',
 # https://stackoverflow.com/questions/3348460/csv-file-written-with-python-has-blank-lines-between-each-r
 # adding the newline= '' parameter
 #store this one property into a CSV
-with open("05_train.csv","w", newline='') as train_file:
+with open("06_train.csv","w", newline='') as train_file:
     train_writer = csv.writer(train_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
     objTrainPositionsNodes = doc.getElementsByTagName("objTrainPositions")
     for objTrainPositionsNode in objTrainPositionsNodes:
         dataList = []
         for retrieveTag in retrieveTags:
-            datanode = objTrainPositionsNode.getElementsByTagName(retrieveTag).item(0)
-            dataList.append(datanode.firstChild.nodeValue.strip())
-        train_writer.writerow(dataList)
+            if retrieveTag == "TrainCode":
+                datanode = objTrainPositionsNode.getElementsByTagName(retrieveTag).item(0)
+                traincode = datanode.firstChild.nodeValue.strip()
+                if "D" in traincode:
+                    print(traincode)
+
+                    datanode = objTrainPositionsNode.getElementsByTagName(retrieveTag).item(0)
+                    dataList.append(datanode.firstChild.nodeValue.strip())
+                    train_writer.writerow(dataList)
 
 

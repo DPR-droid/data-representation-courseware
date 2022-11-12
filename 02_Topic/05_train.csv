@@ -1,71 +1,67 @@
-N	51.9212	-8.17579	P288	03 Oct 2022	P288\nMidleton to Cork\nExpected Departure 19:45	To Cork
-N	52.5009	-8.20003	A478	03 Oct 2022	A478\nLimerick Junction to Ennis\nExpected Departure 19:38	To Ennis
-N	52.6587	-8.62397	A790	03 Oct 2022	A790\nLimerick to Galway\nExpected Departure 19:50	To Galway
-N	53.2043	-6.10046	E842	03 Oct 2022	E842\nBray to Malahide\nExpected Departure 19:47	Northbound
-N	53.3397	-6.23773	D420	03 Oct 2022	D420\nGrand Canal Dock to Hazelhatch\nExpected Departure 19:43	Southbound
-N	53.3433	-6.24829	D933	03 Oct 2022	D933\nDublin Pearse to Maynooth\nExpected Departure 19:43	Northbound
-N	53.3464	-6.29461	D217	03 Oct 2022	D217\nDublin Heuston to Portlaoise\nExpected Departure 19:45	To Portlaoise
-N	53.378	-6.58993	P677	03 Oct 2022	P677\nMaynooth to Dublin Pearse\nExpected Departure 19:45	Southbound
-N	53.3891	-6.07401	E256	03 Oct 2022	E256\nHowth to Bray\nExpected Departure 19:45	Southbound
-N	53.4349	-6.46898	P772	03 Oct 2022	P772\nM3 Parkway to Dublin Connolly\nExpected Departure 19:42	Southbound
-R	0	0	A222	03 Oct 2022	A222\n17:00 - Dublin Heuston to Cork (27 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
-R	0	0	A227	03 Oct 2022	A227\n18:25 - Cork to Dublin Heuston (0 mins late)\nDeparted LJ461 next stop Thurles	To Dublin Heuston
-R	0	0	A718	03 Oct 2022	A718\n19:35 - Dublin Heuston to Galway (-7 mins late)\nArrived Inchicore Advance Starter next stop Portarlington	To Galway
-R	0	0	D219	03 Oct 2022	D219\n21:05 - Dublin Heuston to Portlaoise (-97 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	To Portlaoise
-R	0	0	D256	03 Oct 2022	D256\n19:25 - Mallow to Cork (10 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
-R	0	0	D419	03 Oct 2022	D419\n19:13 - Grand Canal Dock to Hazelhatch (-3 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
-R	52.1396	-8.65521	A312	03 Oct 2022	A312\n17:05 - Dublin Heuston to Tralee (1 mins late)\nDeparted Mallow next stop Banteer	To Tralee
-R	52.5009	-8.20003	A224	03 Oct 2022	A224\n18:00 - Dublin Heuston to Cork (4 mins late)\nArrived Limerick Junction next stop Mallow	To Cork
-R	52.6404	-8.52719	A410	03 Oct 2022	A410\n17:25 - Dublin Heuston to Limerick (0 mins late)\nDeparted Killonan next stop Limerick	To Limerick
-R	52.992	-6.9762	A512	03 Oct 2022	A512\n17:35 - Dublin Heuston to Waterford (-2 mins late)\nDeparted Athy next stop Carlow	To Waterford
-R	52.992	-6.9762	A514	03 Oct 2022	A514\n18:35 - Dublin Heuston to Waterford (0 mins late)\nDeparted Athy next stop Carlow	To Waterford
-R	53.1442	-6.06085	A608	03 Oct 2022	A608\n16:33 - Dublin Connolly to Rosslare Europort (0 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
-R	53.1442	-6.06085	A610	03 Oct 2022	A610\n17:33 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Kilcoole	Southbound
-R	53.1442	-6.06085	A612	03 Oct 2022	A612\n18:35 - Dublin Connolly to Wexford (4 mins late)\nArrived Greystones next stop Kilcoole	Southbound
-R	53.1454	-7.06361	P220	03 Oct 2022	P220\n19:25 - Portlaoise to Dublin Heuston (-3 mins late)\nArrived Monasterevin next stop Kildare	To Dublin Heuston
-R	53.146	-7.18055	A226	03 Oct 2022	A226\n19:00 - Dublin Heuston to Cork (0 mins late)\nDeparted Portarlington next stop Portlaoise	To Cork
-R	53.163	-6.90802	A225	03 Oct 2022	A225\n17:25 - Cork to Dublin Heuston (0 mins late)\nDeparted Kildare next stop Dublin Heuston	To Dublin Heuston
-R	53.1855	-6.80807	A717	03 Oct 2022	A717\n17:20 - Galway to Dublin Heuston (0 mins late)\nDeparted Newbridge next stop Dublin Heuston	To Dublin Heuston
-R	53.2364	-6.11691	E126	03 Oct 2022	E126\n18:30 - Malahide to Greystones (0 mins late)\nArrived Shankill next stop Bray	Southbound
-R	53.2364	-6.11691	E942	03 Oct 2022	E942\n19:35 - Bray to Howth (0 mins late)\nArrived Shankill next stop Killiney	Northbound
-R	53.2469	-6.66386	D216	03 Oct 2022	D216\n19:05 - Dublin Heuston to Portlaoise (1 mins late)\nArrived Sallins next stop Newbridge	To Portlaoise
-R	53.2812	-6.12289	E702	03 Oct 2022	E702\n19:25 - Bray to Dublin Connolly (0 mins late)\nArrived Glenageary next stop Sandycove	Northbound
-R	53.2951	-6.13498	E252	03 Oct 2022	E252\n18:40 - Howth to Bray (3 mins late)\nArrived Dun Laoghaire next stop Sandycove	Southbound
-R	53.3027	-6.17833	E253	03 Oct 2022	E253\n18:50 - Malahide to Bray (2 mins late)\nDeparted Blackrock next stop Seapoint	Southbound
-R	53.3027	-6.17833	E941	03 Oct 2022	E941\n19:04 - Greystones to Howth (-2 mins late)\nArrived Blackrock next stop Booterstown	Northbound
-R	53.3212	-8.60608	A714	03 Oct 2022	A714\n17:30 - Dublin Heuston to Galway (6 mins late)\nDeparted Attymon next stop Athenry	To Galway
-R	53.3281	-6.22116	E127	03 Oct 2022	E127\n18:57 - Howth to Greystones (3 mins late)\nDeparted Sandymount next stop Sydney Parade	Southbound
-R	53.3281	-6.22116	E840	03 Oct 2022	E840\n19:05 - Bray to Malahide (1 mins late)\nArrived Sandymount next stop Lansdowne Road	Northbound
-R	53.3334	-6.40628	P218	03 Oct 2022	P218\n18:28 - Portlaoise to Dublin Heuston (12 mins late)\nArrived Clondalkin next stop Park West and Cherry Orchard	To Dublin Heuston
-R	53.3353	-6.45233	P419	03 Oct 2022	P419\n19:32 - Hazelhatch to Grand Canal Dock (3 mins late)\nArrived Adamstown next stop Clondalkin	Northbound
-R	53.3395	-7.61596	A716	03 Oct 2022	A716\n18:30 - Dublin Heuston to Galway (0 mins late)\nArrived Clara next stop Athlone	To Galway
-R	53.3397	-6.23773	E940	03 Oct 2022	E940\n18:55 - Bray to Howth (5 mins late)\nArrived Grand Canal Dock next stop Dublin Pearse	Northbound
-R	53.3433	-6.24829	P418	03 Oct 2022	P418\n18:54 - Hazelhatch to Grand Canal Dock (3 mins late)\nDeparted Dublin Pearse next stop Grand Canal Dock	Northbound
-R	53.347	-6.25425	E254	03 Oct 2022	E254\n19:10 - Malahide to Bray (1 mins late)\nArrived Tara Street next stop Dublin Pearse	Southbound
-R	53.3629	-6.22753	D823	03 Oct 2022	D823\n19:23 - Dublin Pearse to Drogheda (5 mins late)\nDeparted Clontarf Road next stop Malahide	Northbound
-R	53.3725	-6.29869	D317	03 Oct 2022	D317\n19:30 - Docklands to M3 Parkway (0 mins late)\nArrived Broombridge next stop Pelletstown	Northbound
-R	53.3725	-6.29869	P771	03 Oct 2022	P771\n19:15 - M3 Parkway to Dublin Connolly (1 mins late)\nDeparted Broombridge next stop Dublin Connolly	Southbound
-R	53.373	-6.20442	E255	03 Oct 2022	E255\n19:20 - Howth to Bray (2 mins late)\nArrived Killester next stop Clontarf Road	Southbound
-R	53.373	-6.20442	E939	03 Oct 2022	E939\n18:35 - Bray to Howth (8 mins late)\nDeparted Killester next stop Harmonstown	Northbound
-R	53.3743	-6.48624	D932	03 Oct 2022	D932\n19:00 - Dublin Pearse to Maynooth (0 mins late)\nArrived Leixlip (Confey) next stop Leixlip (Louisa Bridge)	Northbound
-R	53.3776	-6.39072	A914	03 Oct 2022	A914\n19:17 - Dublin Connolly to Sligo (3 mins late)\nDeparted Coolmine next stop Maynooth	Northbound
-R	53.3776	-6.39072	P759	03 Oct 2022	P759\n19:18 - Maynooth to Dublin Connolly (2 mins late)\nDeparted Coolmine next stop Castleknock	Southbound
-R	53.3815	-6.17699	P623	03 Oct 2022	P623\n18:50 - Drogheda to Dublin Pearse (3 mins late)\nArrived Raheny next stop Dublin Connolly	Southbound
-R	53.4032	-6.14839	E128	03 Oct 2022	E128\n19:30 - Malahide to Greystones (3 mins late)\nArrived Clongriffin next stop Howth Junction	Southbound
-R	53.4273	-7.93683	A808	03 Oct 2022	A808\n18:15 - Dublin Heuston to Westport (4 mins late)\nDeparted Athlone next stop Roscommon	To Westport
-R	53.4933	-7.15576	A913	03 Oct 2022	A913\n16:55 - Sligo to Dublin Connolly (0 mins late)\nDeparted Killucan next stop Enfield	Southbound
-R	53.523	-7.34608	D928	03 Oct 2022	D928\n18:16 - Dublin Connolly to Longford (0 mins late)\nDeparted Mullingar next stop Edgeworthstown	Northbound
-R	53.6794	-6.24253	D822	03 Oct 2022	D822\n18:50 - Dublin Connolly to Drogheda (2 mins late)\nDeparted Laytown next stop Drogheda	Northbound
-R	53.712	-6.33538	A134	03 Oct 2022	A134\n19:00 - Dublin Connolly to Belfast (4 mins late)\nDeparted Drogheda next stop Dundalk	Northbound
-R	53.9676	-8.30438	A912	03 Oct 2022	A912\n17:10 - Dublin Connolly to Sligo (0 mins late)\nArrived Boyle next stop Ballymote	Northbound
-R	54.0007	-6.41291	A133	03 Oct 2022	A133\n18:05 - Belfast to Dublin Connolly (1 mins late)\nDeparted Dundalk next stop Drogheda	Southbound
-R	54.0887	-8.52088	A915	03 Oct 2022	A915\n19:05 - Sligo to Dublin Connolly (5 mins late)\nDeparted Ballymote next stop Boyle	Southbound
-T	53.0371	-7.30086	D215	03 Oct 2022	D215\n18:25 - Dublin Heuston to Portlaoise(-1 mins late)\nTERMINATED Portlaoise at 19:38	To Portlaoise
-T	53.2043	-6.10046	E251	03 Oct 2022	E251\n18:20 - Howth to Bray(1 mins late)\nTERMINATED Bray at 19:36	Southbound
-T	53.3433	-6.24829	P675	03 Oct 2022	P675\n18:40 - Maynooth to Dublin Pearse(2 mins late)\nTERMINATED Dublin Pearse at 19:33	Southbound
-T	53.3531	-6.24591	P758	03 Oct 2022	P758\n18:58 - Maynooth to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 19:38	Southbound
-T	53.4273	-7.93683	A721	03 Oct 2022	A721\n18:10 - Galway to Athlone(-6 mins late)\nTERMINATED Athlone at 19:33	To Athlone
-T	53.4349	-6.46898	D316	03 Oct 2022	D316\n19:00 - Docklands to M3 Parkway(-2 mins late)\nTERMINATED M3 Parkway at 19:34	Northbound
-T	53.4509	-6.15649	E838	03 Oct 2022	E838\n18:25 - Bray to Malahide(-1 mins late)\nTERMINATED Malahide at 19:38	Northbound
-T	53.7243	-7.79574	D925	03 Oct 2022	D925\n17:17 - Dublin Connolly to Longford(-2 mins late)\nTERMINATED Longford at 19:37	Northbound
-T	54.0007	-6.41291	D820	03 Oct 2022	D820\n18:00 - Dublin Pearse to Dundalk(6 mins late)\nTERMINATED Dundalk at 19:38	Northbound
+N	51.8491	-8.29956	P253	12 Nov 2022	P253\nCobh to Cork\nExpected Departure 18:30	To Cork
+N	51.9018	-8.4582	D254	12 Nov 2022	D254\nCork to Cobh\nExpected Departure 18:30	To Cobh
+N	51.9212	-8.17579	P287	12 Nov 2022	P287\nMidleton to Cork\nExpected Departure 18:45	To Cork
+N	52.5009	-8.20003	A444	12 Nov 2022	A444\nLimerick Junction to Limerick\nExpected Departure 18:31	To Limerick
+N	52.5009	-8.20003	A576	12 Nov 2022	A576\nLimerick Junction to Waterford\nExpected Departure 18:40	To Waterford
+N	53.0371	-7.30086	P218	12 Nov 2022	P218\nPortlaoise to Dublin Heuston\nExpected Departure 18:33	To Dublin Heuston
+N	53.1442	-6.06085	E930	12 Nov 2022	E930\nGreystones to Howth\nExpected Departure 18:30	Northbound
+N	53.2736	-9.04696	A491	12 Nov 2022	A491\nGalway to Ennis\nExpected Departure 18:45	To Ennis
+N	53.3531	-6.24591	A612	12 Nov 2022	A612\nDublin Connolly to Rosslare Europort\nExpected Departure 18:38	Southbound
+N	53.3531	-6.24591	D820	12 Nov 2022	D820\nDublin Connolly to Drogheda\nExpected Departure 18:40	Northbound
+N	53.3531	-6.24591	D926	12 Nov 2022	D926\nDublin Connolly to Maynooth\nExpected Departure 18:45	Northbound
+N	53.3891	-6.07401	E236	12 Nov 2022	E236\nHowth to Bray\nExpected Departure 18:30	Southbound
+N	53.3891	-6.07401	E237	12 Nov 2022	E237\nHowth to Bray\nExpected Departure 18:45	Southbound
+N	53.7955	-9.50885	A809	12 Nov 2022	A809\nWestport to Athlone\nExpected Departure 18:40	To Athlone
+N	54.1085	-9.16146	A871	12 Nov 2022	A871\nBallina to Manulla Junction\nExpected Departure 18:42	To Manulla Junction
+R	0	0	A220	12 Nov 2022	A220\n16:00 - Dublin Heuston to Cork (4 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	0	0	A225	12 Nov 2022	A225\n17:25 - Cork to Dublin Heuston (5 mins late)\nDeparted LJ461 next stop Thurles	To Dublin Heuston
+R	0	0	A514	12 Nov 2022	A514\n18:35 - Dublin Heuston to Waterford (-9 mins late)\nArrived Inchicore Advance Starter next stop Newbridge	To Waterford
+R	0	0	A842	12 Nov 2022	A842\n16:20 - Tullamore to Westport (2 mins late)\nDeparted Athlone Midland Yard next stop Roscommon	To Westport
+R	0	0	D229	12 Nov 2022	D229\n18:25 - Mallow to Cork (0 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	52.1396	-8.65521	A310	12 Nov 2022	A310\n17:25 - Mallow to Tralee (1 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R	52.1396	-8.65521	A313	12 Nov 2022	A313\n17:05 - Tralee to Cork (-1 mins late)\nArrived Mallow next stop Cork	To Cork
+R	52.5009	-8.20003	A222	12 Nov 2022	A222\n17:00 - Dublin Heuston to Cork (5 mins late)\nArrived Limerick Junction next stop Mallow	To Cork
+R	52.5828	-8.38682	A408	12 Nov 2022	A408\n16:25 - Dublin Heuston to Limerick (6 mins late)\nDeparted Drumkeen next stop Limerick	To Limerick
+R	52.6766	-7.82189	A312	12 Nov 2022	A312\n17:05 - Dublin Heuston to Tralee (7 mins late)\nArrived Thurles next stop Charleville	To Tralee
+R	52.8999	-7.60259	A410	12 Nov 2022	A410\n17:25 - Dublin Heuston to Limerick (4 mins late)\nArrived Ballybrophy next stop Templemore	To Limerick
+R	52.992	-6.9762	A510	12 Nov 2022	A510\n16:40 - Dublin Heuston to Waterford (-1 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	52.992	-6.9762	A512	12 Nov 2022	A512\n17:35 - Dublin Heuston to Waterford (-2 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	53.0371	-7.30086	A223	12 Nov 2022	A223\n16:25 - Cork to Dublin Heuston (5 mins late)\nDeparted Portlaoise next stop Dublin Heuston	To Dublin Heuston
+R	53.1454	-7.06361	A224	12 Nov 2022	A224\n18:00 - Dublin Heuston to Cork (-2 mins late)\nDeparted Monasterevin next stop Ballybrophy	To Cork
+R	53.146	-7.18055	D212	12 Nov 2022	D212\n17:27 - Dublin Heuston to Portlaoise (2 mins late)\nDeparted Portarlington next stop Portlaoise	To Portlaoise
+R	53.2043	-6.10046	E122	12 Nov 2022	E122\n17:07 - Clongriffin to Greystones (26 mins late)\nArrived Bray next stop Greystones	Southbound
+R	53.2469	-6.66386	A808	12 Nov 2022	A808\n18:15 - Dublin Heuston to Portarlington (1 mins late)\nDeparted Sallins next stop Portarlington	To Portarlington
+R	53.2557	-6.11317	E825	12 Nov 2022	E825\n18:25 - Bray to Malahide (1 mins late)\nDeparted Killiney next stop Dalkey	Northbound
+R	53.2704	-7.49985	A772	12 Nov 2022	A772\n19:10 - Tullamore to Galway (-72 mins late)\nDeparted Tullamore next stop Clara	To Galway
+R	53.2812	-6.12289	E232	12 Nov 2022	E232\n17:18 - Howth to Bray (23 mins late)\nArrived Glenageary next stop Dalkey	Southbound
+R	53.2951	-6.13498	E233	12 Nov 2022	E233\n17:30 - Malahide to Bray (14 mins late)\nDeparted Dun Laoghaire next stop Sandycove	Southbound
+R	53.2954	-6.15206	E929	12 Nov 2022	E929\n18:10 - Bray to Howth (5 mins late)\nDeparted Salthill and Monkstown next stop Seapoint	Northbound
+R	53.3015	-8.74855	A768	12 Nov 2022	A768\n17:15 - Tullamore to Galway (5 mins late)\nArrived Athenry next stop Galway	To Galway
+R	53.3281	-6.22116	E824	12 Nov 2022	E824\n17:55 - Bray to Malahide (8 mins late)\nArrived Sandymount next stop Lansdowne Road	Northbound
+R	53.334	-6.37868	A775	12 Nov 2022	A775\n17:53 - Portarlington to Dublin Heuston (2 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston	To Dublin Heuston
+R	53.334	-6.37868	D215	12 Nov 2022	D215\n18:25 - Dublin Heuston to Portlaoise (-1 mins late)\nArrived Park West and Cherry Orchard next stop Clondalkin	To Portlaoise
+R	53.334	-6.37868	P225	12 Nov 2022	P225\n23:30 - Portarlington to Dublin Heuston (-46 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston	To Dublin Heuston
+R	53.3347	-6.22979	E234	12 Nov 2022	E234\n17:48 - Howth to Bray (13 mins late)\nArrived Lansdowne Road next stop Sandymount	Southbound
+R	53.3353	-6.45233	P216	12 Nov 2022	P216\n17:25 - Portlaoise to Dublin Heuston (15 mins late)\nDeparted Adamstown next stop Clondalkin	To Dublin Heuston
+R	53.3397	-6.23773	E928	12 Nov 2022	E928\n17:30 - Greystones to Howth (19 mins late)\nArrived Grand Canal Dock next stop Dublin Pearse	Northbound
+R	53.3531	-6.24591	E124	12 Nov 2022	E124\n18:00 - Howth to Greystones (8 mins late)\nDeparted Dublin Connolly next stop Tara Street	Southbound
+R	53.3602	-7.79847	A770	12 Nov 2022	A770\n18:10 - Tullamore to Galway (4 mins late)\nDeparted Clonydonnin next stop Athlone	To Galway
+R	53.373	-6.20442	D819	12 Nov 2022	D819\n18:22 - Dublin Connolly to Drogheda (7 mins late)\nDeparted Killester next stop Howth Junction	Northbound
+R	53.3743	-6.48624	P753	12 Nov 2022	P753\n18:20 - Maynooth to Dublin Connolly (3 mins late)\nDeparted Leixlip (Confey) next stop Clonsilla	Southbound
+R	53.3786	-6.19131	E927	12 Nov 2022	E927\n17:25 - Bray to Howth (16 mins late)\nDeparted Harmonstown next stop Raheny	Northbound
+R	53.3815	-6.17699	E926	12 Nov 2022	E926\n17:10 - Bray to Howth (29 mins late)\nDeparted Raheny next stop Kilbarrack	Northbound
+R	53.3816	-6.37149	D925	12 Nov 2022	D925\n18:15 - Dublin Connolly to Maynooth (0 mins late)\nArrived Castleknock next stop Coolmine	Northbound
+R	53.3909	-6.15672	E235	12 Nov 2022	E235\n18:17 - Malahide to Bray (8 mins late)\nArrived Howth Junction next stop Kilbarrack	Southbound
+R	53.4273	-7.93683	A717	12 Nov 2022	A717\n17:20 - Galway to Tullamore (-1 mins late)\nArrived Athlone next stop Clara	To Tullamore
+R	53.4855	-6.15134	P723	12 Nov 2022	P723\n18:02 - Drogheda to Dublin Connolly (0 mins late)\nArrived Donabate next stop Malahide	Southbound
+R	53.5201	-6.1439	D818	12 Nov 2022	D818\n17:50 - Dublin Connolly to Drogheda (12 mins late)\nDeparted Rush and Lusk next stop Skerries	Northbound
+R	53.523	-7.34608	A912	12 Nov 2022	A912\n17:10 - Dublin Connolly to Sligo (0 mins late)\nDeparted Mullingar next stop Edgeworthstown	Northbound
+R	53.712	-6.33538	D817	12 Nov 2022	D817\n17:15 - Dublin Connolly to Dundalk (12 mins late)\nDeparted Drogheda next stop Dundalk	Northbound
+R	53.7243	-7.79574	A913	12 Nov 2022	A913\n16:55 - Sligo to Dublin Connolly (1 mins late)\nDeparted Longford next stop Edgeworthstown	Southbound
+R	53.9676	-8.30438	A910	12 Nov 2022	A910\n16:00 - Dublin Connolly to Sligo (0 mins late)\nArrived Boyle next stop Ballymote	Northbound
+R	54.0007	-6.41291	A132	12 Nov 2022	A132\n16:50 - Dublin Connolly to Belfast (0 mins late)\nDeparted Dundalk next stop Newry	Northbound
+T	53.3531	-6.24591	A131	12 Nov 2022	A131\n16:05 - Belfast to Dublin Connolly(11 mins late)\nTERMINATED Dublin Connolly at 18:29	Southbound
+T	53.3531	-6.24591	A911	12 Nov 2022	A911\n15:05 - Sligo to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 18:29	Southbound
+T	53.3531	-6.24591	P722	12 Nov 2022	P722\n17:30 - Drogheda to Dublin Connolly(10 mins late)\nTERMINATED Dublin Connolly at 18:26	Southbound
+T	53.378	-6.58993	D924	12 Nov 2022	D924\n17:45 - Dublin Connolly to Maynooth(6 mins late)\nTERMINATED Maynooth at 18:35	Northbound
+T	53.4349	-6.46898	D341	12 Nov 2022	D341\n18:16 - Clonsilla to M3 Parkway(4 mins late)\nTERMINATED M3 Parkway at 18:32	Northbound

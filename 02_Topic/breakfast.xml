@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<breakfast_menu>
+    <food>
+        <Name>Full Irish</Name>
+        <price>9.95</price>
+        <description>Sausage, Bacon, Eggs, Pudding, Beans, Liver, Chips</description>
+        <calories>1050</calories>
+    </food>
+    <food>
+        <Name>Porridge</Name>
+        <price>29.95</price>
+        <description>
+            Suasage, Bacon, Eggs, Pudding, Beans, Liver, Chips
+        </description>
+        <calories>1050</calories>
+    </food>
+</breakfast_menu> 

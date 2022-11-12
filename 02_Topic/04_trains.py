@@ -13,6 +13,9 @@ doc = parseString(page.content)
 # Print to see it working
 # Make xml readable
 
+# I had an issue with blank lines in the file so found solution at
+# https://stackoverflow.com/questions/3348460/csv-file-written-with-python-has-blank-lines-between-each-r
+# adding the newline= '' parameter
 #store this one property into a CSV
 with open("04_train.csv","w", newline='') as train_file:
     train_writer = csv.writer(train_file, delimiter='\t', quotechar='"', quoting=csv.QUOTE_MINIMAL)

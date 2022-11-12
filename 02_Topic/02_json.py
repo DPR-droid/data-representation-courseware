@@ -1,0 +1,10 @@
+# Read from a file 
+
+import json
+filename = "simple.json"
+with open(filename, "r") as fp:
+    jsonobject = json.load(fp)
+# print(jsonobject)
+for employee in jsonobject["employees"]:
+    print(employee)
+
