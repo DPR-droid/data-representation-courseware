@@ -34,7 +34,7 @@ def getFormatted(dataset):
         label0 = dimensions[currentId]["category"]["label"][index]
         result[label0]={}
         
-        print(label0)
+        # print(label0)
         for dim1 in range(0, sizes[1]):
             currentId = ids[1]
             index = dimensions[currentId]["category"]["index"][dim1]

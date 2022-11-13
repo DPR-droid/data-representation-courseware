@@ -59,16 +59,16 @@ if __name__ == "__main__":
     book= {
         'Author':"Al Johnson",
         'Title':"Moonshine",
-        "Price": 25
+        "Price": -100000000000
     }
     bookdiff= {
         'Author':"Alex",
-        "Price": 10000
+        "Price": -10000000
     }
     id = 99
     # print(getallbooks())
     # print(getbookid(19))
-    # print(createbook(book))
+    print(createbook(book))
     # print(updatebook(id, bookdiff))
     # print(deletebook(94))
     #averageprice()
