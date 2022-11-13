@@ -4,8 +4,8 @@ from config import config as cfg
 
 filename = "repos-private.json"
 
-#url = 'https://api.github.com/repos/andrewbeattycourseware/datarepresentation/contents/code'
-url = 'https://api.github.com/repos/andrewbeattycourseware/aprivateone'
+#url = 'https://api.github.com/repos/DPR-droid/datarepresentation/contents/code'
+url = 'https://api.github.com/repos/DPR-droid/aprivateone'
 
 # the more basic way of setting authorization
 #headers = {'Authorization': 'token ' + apikey}

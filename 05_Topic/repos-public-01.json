@@ -1,0 +1,194 @@
+[
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "b8fff0a0a5c912c17bca9fabde46dabda3169905",
+        "size": 2140,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/b8fff0a0a5c912c17bca9fabde46dabda3169905",
+        "download_url": "https://raw.githubusercontent.com/DPR-droid/data-representation-courseware/main/.gitignore",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/b8fff0a0a5c912c17bca9fabde46dabda3169905",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "02_Topic",
+        "path": "02_Topic",
+        "sha": "3efa2ca7fcfb28c75a14daa677dc33cd424fda78",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/02_Topic?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/02_Topic",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/3efa2ca7fcfb28c75a14daa677dc33cd424fda78",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/02_Topic?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/3efa2ca7fcfb28c75a14daa677dc33cd424fda78",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/02_Topic"
+        }
+    },
+    {
+        "name": "03_Topic",
+        "path": "03_Topic",
+        "sha": "9cb73b4df2fa8c05d7df45e8501367840f8fbf01",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/03_Topic?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/03_Topic",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/9cb73b4df2fa8c05d7df45e8501367840f8fbf01",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/03_Topic?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/9cb73b4df2fa8c05d7df45e8501367840f8fbf01",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/03_Topic"
+        }
+    },
+    {
+        "name": "04_topic",
+        "path": "04_topic",
+        "sha": "c1c864feaec77eab7e86420fdd23078d09252072",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/04_topic?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/04_topic",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/c1c864feaec77eab7e86420fdd23078d09252072",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/04_topic?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/c1c864feaec77eab7e86420fdd23078d09252072",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/04_topic"
+        }
+    },
+    {
+        "name": "05_Topic",
+        "path": "05_Topic",
+        "sha": "50ddfe0a8b3268ced600c5e979d9fb001d8c1ff7",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/05_Topic?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/05_Topic",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/50ddfe0a8b3268ced600c5e979d9fb001d8c1ff7",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/05_Topic?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/50ddfe0a8b3268ced600c5e979d9fb001d8c1ff7",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/05_Topic"
+        }
+    },
+    {
+        "name": "06_Topic",
+        "path": "06_Topic",
+        "sha": "e536a5657ec0886159700b75e58d8b9d4afa0b49",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/06_Topic?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/06_Topic",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/e536a5657ec0886159700b75e58d8b9d4afa0b49",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/06_Topic?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/e536a5657ec0886159700b75e58d8b9d4afa0b49",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/06_Topic"
+        }
+    },
+    {
+        "name": "Assignment_01",
+        "path": "Assignment_01",
+        "sha": "94c2760cea5f3d130e4bca0e28e2dd00d8dfeae7",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Assignment_01?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Assignment_01",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/94c2760cea5f3d130e4bca0e28e2dd00d8dfeae7",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Assignment_01?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/94c2760cea5f3d130e4bca0e28e2dd00d8dfeae7",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Assignment_01"
+        }
+    },
+    {
+        "name": "Assignment_03",
+        "path": "Assignment_03",
+        "sha": "777a479b390c5febf24439ce52fdcfcd81018b20",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Assignment_03?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Assignment_03",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/777a479b390c5febf24439ce52fdcfcd81018b20",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Assignment_03?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/777a479b390c5febf24439ce52fdcfcd81018b20",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Assignment_03"
+        }
+    },
+    {
+        "name": "Project",
+        "path": "Project",
+        "sha": "6fc89e4926d49422d9732bedac93a1f5d2781195",
+        "size": 0,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Project?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Project",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/6fc89e4926d49422d9732bedac93a1f5d2781195",
+        "download_url": null,
+        "type": "dir",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/Project?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/trees/6fc89e4926d49422d9732bedac93a1f5d2781195",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/tree/main/Project"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "c603fb0543342c2503b63d0d025a6f26ace496ec",
+        "size": 32,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/README.md?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/c603fb0543342c2503b63d0d025a6f26ace496ec",
+        "download_url": "https://raw.githubusercontent.com/DPR-droid/data-representation-courseware/main/README.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/c603fb0543342c2503b63d0d025a6f26ace496ec",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/blob/main/README.md"
+        }
+    },
+    {
+        "name": "cso-formatted.json",
+        "path": "cso-formatted.json",
+        "sha": "2453db4f24f5ff32e8e5217796eddfee0b66839d",
+        "size": 7671,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/cso-formatted.json?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/blob/main/cso-formatted.json",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/2453db4f24f5ff32e8e5217796eddfee0b66839d",
+        "download_url": "https://raw.githubusercontent.com/DPR-droid/data-representation-courseware/main/cso-formatted.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/cso-formatted.json?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/2453db4f24f5ff32e8e5217796eddfee0b66839d",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/blob/main/cso-formatted.json"
+        }
+    },
+    {
+        "name": "cso.json",
+        "path": "cso.json",
+        "sha": "8824123fa848af977e94dd73fdcc0b7baf35ddb8",
+        "size": 6072,
+        "url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/cso.json?ref=main",
+        "html_url": "https://github.com/DPR-droid/data-representation-courseware/blob/main/cso.json",
+        "git_url": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/8824123fa848af977e94dd73fdcc0b7baf35ddb8",
+        "download_url": "https://raw.githubusercontent.com/DPR-droid/data-representation-courseware/main/cso.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/DPR-droid/data-representation-courseware/contents/cso.json?ref=main",
+            "git": "https://api.github.com/repos/DPR-droid/data-representation-courseware/git/blobs/8824123fa848af977e94dd73fdcc0b7baf35ddb8",
+            "html": "https://github.com/DPR-droid/data-representation-courseware/blob/main/cso.json"
+        }
+    }
+]
