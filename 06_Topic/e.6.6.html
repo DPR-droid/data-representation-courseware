@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>6.6</title>
+        <!-- JavaScript can go here-->
+    </head>
+    <body>
+        <input type="number" onchange="checkNumber(this)">
+        <br/>
+
+
+        <div id="output">
+            Output Here
+        </div>
+
+        <script>
+            function checkNumber(inputElement){
+                var value = inputElement.value
+                if(value < 10){
+                    document.getElementById("output").innerText = "Too low"
+                }
+                else if(value > 10){
+                    document.getElementById("output").innerText = "Too high"
+                }
+                else{
+                    document.getElementById("output").innerText = "Perfecto"
+                }
+            }
+        </script>
+
+    </body>
+</html>

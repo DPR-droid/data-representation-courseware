@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>6.5</title>
+        <!-- JavaScript can go here-->
+    </head>
+    <body>
+        <div id="div1" style="background-color: blue;">
+        <br/>
+        some text <br/>
+        <button onclick="showDiv2()">Show Div2</button><br/>
+
+        </div>
+        <div id="div2" style="background-color:brown; display: none;" >
+        <br/>
+        some text from div 2 <br/>
+        <button onclick="showDiv1()">Show Div1</button><br/>
+        </div>
+
+
+        <script>
+            function showDiv2(){
+                document.getElementById('div1').style.display = "none";
+                document.getElementById('div2').style.display = "block";
+            }
+            function showDiv1(){
+                document.getElementById('div1').style.display = "block";
+                document.getElementById('div2').style.display = "none";
+            }
+        </script>
+
+    </body>
+</html>

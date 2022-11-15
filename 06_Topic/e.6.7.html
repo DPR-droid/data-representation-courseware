@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>6.7</title>
+        <!-- JavaScript can go here-->
+    </head>
+    <body>
+        <div id="output">
+            Output Here
+        </div>
+
+        <script>
+            for (var i=0; i<10; i++){
+                console.log(i)
+            }
+            var names=['Joe','Mary', 'Pete']
+            var output = ''
+            for (name of names){
+                output += name + '<br/>'
+            }
+            document.getElementById("output").innerHTML = output
+        </script>
+
+    </body>
+</html>
