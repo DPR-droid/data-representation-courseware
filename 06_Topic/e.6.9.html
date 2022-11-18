@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>6.7</title>
+        <!-- JavaScript can go here-->
+    </head>
+    <body>
+        <table>
+                <tr>
+                    <td>data1</td>
+                    <td>data2</td>
+                    <td><button onclick="doRow(this)">output</button></td>
+                </tr>
+
+        </table>
+
+        <script>
+            function doRow(buttonElement){
+                var rowElement = buttonElement.parentNode.parentNode
+                var data = {}
+                data.cell1 = rowElement.cell[0].firstChild.textContext;
+                data.cell2 = rowElement.cell[2].firstChild.textContext;
+                
+                console.log(JSON.stringify(data))
+            }
+        </script>
+
+    </body>
+</html>

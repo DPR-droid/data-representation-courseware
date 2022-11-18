@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>6.7</title>
+        <!-- JavaScript can go here-->
+    </head>
+    <body>
+        <div id="myForm">
+            First Name: <input type = "text" name ='firstName'/><br>
+            Last Name: <input type = "text" name ='lastName'/><br>
+            age: <input type = "text" name ='age'/><br>
+            <button onclick="doForm()">go</button>
+        </div>
+
+        <script>
+            function doForm(){
+                var employee = {}
+                var form = document.getElementById("myForm")
+                employee.firstName = form.querySelector('input[name="firstName"]').value
+                employee.lastName = form.querySelector('input[name="lastName"]').value
+                employee.age = form.querySelector('input[name="age"]').value
+                console.log("Form data" + JSON.stringify(employee))
+
+            }
+        </script>
+
+    </body>
+</html>
