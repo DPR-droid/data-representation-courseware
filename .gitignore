@@ -153,6 +153,8 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+*.odt
+*.odt#
 
 # Windows shortcuts
 *.lnk
