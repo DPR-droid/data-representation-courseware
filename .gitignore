@@ -142,7 +142,6 @@ ehthumbs_vista.db
 [Dd]esktop.ini
 config.py
 config_test.py
-Quick_Test_HTTP_URLs.odt
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
@@ -153,8 +152,17 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+*.mp4
+*.docx
+*.pdf
+*.mov
 *.odt
 *.odt#
+*LibreOffice*
+*.zip
+*.pdf
+*.pptx
+*.pptx#
 
 # Windows shortcuts
 *.lnk

@@ -12,18 +12,17 @@ def index():
 
 @app.route('/user', methods=["GET"])
 def getuser():
-    return "Hello User"
+    return "Hello User "
 
 
 @app.route('/user/<int:id>', methods=["GET"])
 def getid(id):
-    return "Hello User " + id
+    return "User Id = " + str(id)
 
 @app.route('/user', methods=["POST"])
 def postuser():
+    print("in post")
     return "POST User"
-
-
 
 @app.route('/invalid', methods=["GET"])
 def invalid():
